@@ -1,0 +1,9 @@
+.recordData {
+  box-shadow: 0px -1px 8px -2px rgb(0 0 0 / 50%);
+  padding: 15px 30px;
+  margin: 15px 25px;
+}
+
+.recordData span {
+  float: right;
+}
